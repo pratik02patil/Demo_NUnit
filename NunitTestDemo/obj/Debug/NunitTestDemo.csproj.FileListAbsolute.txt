@@ -1,0 +1,9 @@
+C:\Pratik\NunitDemo\NunitTestDemo\NunitTestDemo\bin\Debug\NunitTestDemo.exe.config
+C:\Pratik\NunitDemo\NunitTestDemo\NunitTestDemo\bin\Debug\NunitTestDemo.exe
+C:\Pratik\NunitDemo\NunitTestDemo\NunitTestDemo\bin\Debug\NunitTestDemo.pdb
+C:\Pratik\NunitDemo\NunitTestDemo\NunitTestDemo\bin\Debug\nunit.framework.dll
+C:\Pratik\NunitDemo\NunitTestDemo\NunitTestDemo\bin\Debug\nunit.framework.pdb
+C:\Pratik\NunitDemo\NunitTestDemo\NunitTestDemo\bin\Debug\nunit.framework.xml
+C:\Pratik\NunitDemo\NunitTestDemo\NunitTestDemo\obj\Debug\NunitTestDemo.csprojResolveAssemblyReference.cache
+C:\Pratik\NunitDemo\NunitTestDemo\NunitTestDemo\obj\Debug\NunitTestDemo.exe
+C:\Pratik\NunitDemo\NunitTestDemo\NunitTestDemo\obj\Debug\NunitTestDemo.pdb
